@@ -6,8 +6,8 @@
 // @match        https://rodeo-dub.amazon.com/*/ExSD*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://gist.githubusercontent.com/YOUR_USERNAME/YOUR_GIST_ID/raw/csx-missing.user.js
-// @downloadURL  https://gist.githubusercontent.com/YOUR_USERNAME/YOUR_GIST_ID/raw/csx-missing.user.js
+// @updateURL    https://raw.githubusercontent.com/ghimarti/rodeo-userscripts/main/csx-missing.user.js
+// @downloadURL  https://raw.githubusercontent.com/ghimarti/rodeo-userscripts/main/csx-missing.user.js
 // @require      https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js
 // ==/UserScript==
 
